@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+.nums {
+  background-color: rgb(20, 167, 167);
+  color: white;
+  text-shadow: 2px;
+  display: flex;
+  padding: 20px;
+}
